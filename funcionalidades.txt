@@ -1,1 +1,3 @@
 Armazenar "tarefas"
+Gerenciar "tarefas"
+Notificações de lembretes
